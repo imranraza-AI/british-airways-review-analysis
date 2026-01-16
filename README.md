@@ -8,6 +8,8 @@ The goal of this project is to understand customer satisfaction, service quality
 
 ---
 
+![image alt](https://github.com/imranraza-AI/british-airways-review-analysis/blob/2415f2987a9b34249531182b7250858ebe2a5649/Screenshot%202026-01-16%20152245.png)
+
 ## 🎯 Objectives
 - Analyze overall customer satisfaction for British Airways
 - Evaluate key service metrics:
